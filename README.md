@@ -1,2 +1,2 @@
 # Bommiter
-PHPで掲示板(Twiiter風)を作成
+PHPで掲示板(Twitter風)を作成
